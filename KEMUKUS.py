@@ -1,6 +1,6 @@
-mengimpor  TEGUH
-dari  impor TEGUH  * 
-dari  akad . impor tipe  * 
+import TEGUH
+from TEGUH import *
+from akad.ttypes import *
 from multiprocessing import Pool, Process
 from time import sleep
 import pytz, datetime, pafy, time, timeit, random, sys, ast, re, os, json, subprocess, threading, string, codecs, requests, tweepy, ctypes, urllib, wikipedia
