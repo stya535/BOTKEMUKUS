@@ -1,6 +1,6 @@
-import KIA
-from KIA import *
-from akad.ttypes import *
+mengimpor  TEGUH
+dari  impor TEGUH  * 
+dari  akad . impor tipe  * 
 from multiprocessing import Pool, Process
 from time import sleep
 import pytz, datetime, pafy, time, timeit, random, sys, ast, re, os, json, subprocess, threading, string, codecs, requests, tweepy, ctypes, urllib, wikipedia
